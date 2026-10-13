@@ -7,7 +7,7 @@ class Employee
     string name;
     string Email;
     int number;
-    string autho="ishan0809";
+    string autho="ram";
     string a;
     void Display()
     {
